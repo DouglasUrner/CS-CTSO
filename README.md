@@ -13,3 +13,8 @@ Notes towards the development of a CS focused CTSO for CTE classes in the US.
    Since some schools use game design as a gateway to a broader CS pathway, crafting the mission statement so that these programs could participate even as their CS focus expands would be good. It might be eough to assert that game development is all encompassing (or at least capable of supporting) and to allow for the possibility of including other specialties, such as hardware focused or web focused programs.
    
 * ***To engage students in game design and development to...***
+
+## Game Related SBE
+
+* Game Studio
+* Consale Company
